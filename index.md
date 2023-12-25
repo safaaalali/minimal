@@ -37,10 +37,11 @@ Causal data analysis of in-silico trials Under the supervision of: [Irene Balell
  
  * **Image compression using fuzzy theory and partial differential equations.**
  
-  Under the supervision of [Ahmad Shahin]() 
+  Under the supervision of [Ahmad Shahin](https://lb.linkedin.com/in/ahmadmshahin?trk=people-guest_people_search-card) 
 
->>>>>>> 6ca81e3ad3e05979c22bee0c0bc972168681d327
 [Link to another page](./another-page.html).
+
+[Link to another page 2](./another-page-2.html).
 
 [Publications](./Publications-page.html)
 
