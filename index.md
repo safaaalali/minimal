@@ -22,19 +22,6 @@ Causal data analysis of in-silico trials Under the supervision of: [Irene Balell
  
   Under the supervision of [Ahmad Shahin](https://lb.linkedin.com/in/ahmadmshahin?trk=people-guest_people_search-card) 
   
-## Research projects: 
-
-* **SimCardioTest:**
-
-Causal data analysis of in-silico trials Under the supervision of: [Irene Balelli](https://ibalelli.github.io/) and [Maxime Sermesant](https://team.inria.fr/epione/en/team/maxime-sermesant/). 
-
-* **Mathematical modeling of inflammatory bowel diseases.**
-
- Under the supervision of [Hatem Zaag](https://www.math.univ-paris13.fr/~zaag/) and [Sébastien Li-Thiao-Té](), collaboration with Bichat and Beaujon hospitals. 
- 
- * **Image compression using fuzzy theory and partial differential equations.**
- 
-  Under the supervision of [Ahmad Shahin](https://lb.linkedin.com/in/ahmadmshahin?trk=people-guest_people_search-card)
 
 [Link to another page](./another-page.html).
 
